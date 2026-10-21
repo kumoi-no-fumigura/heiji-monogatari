@@ -1,6 +1,7 @@
 {
  "work": "平治物語",
  "work_id": "heiji",
+ "repo": "kumoi-no-fumigura/heiji-monogatari",
  "yomi": "へいじものがたり",
  "category": "軍記",
  "editions": [
@@ -452,6 +453,5 @@
    ],
    "text": "卷第三平治物語終平家物語平家物語卷第一祇園きやうじやの事殿上のやみうちの事鱸の事かぶろの事我が身のえいぐわの事祇王の事二代のきさきの事額うちろんの事〓水にんしやうの事殿下ののりあひの事鹿のたにの事鵜川かつせんの事ぐわんだての事"
   }
- ],
- "repo": "kumoi-no-fumigura/heiji-monogatari"
+ ]
 }
